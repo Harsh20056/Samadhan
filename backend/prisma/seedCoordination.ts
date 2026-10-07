@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import "dotenv/config";
 import { PrismaClient, Prisma } from "@prisma/client";
 import { randomUUID } from "crypto";
@@ -298,3 +299,5 @@ main()
     process.exit(1);
   })
   .finally(() => prisma.$disconnect());
+
+  

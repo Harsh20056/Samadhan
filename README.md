@@ -1,7 +1,6 @@
 # Samadhan: Smart City Issue Intelligence and Resolution Platform
 
-[![HackInMotion 2026](https://img.shields.io/badge/HackInMotion%202026-Smart%20Cities%20%26%20Civic%20Tech-blue.svg)](https://github.com/Harsh20056/HackInMotion-RICR-HIM-1050)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Harsh20056%2FSamadhan--RICR-181717.svg?logo=github)](https://github.com/Harsh20056/HackInMotion-RICR-HIM-1050)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Harsh20056%2FSamadhan--RICR-181717.svg?logo=github)](https://github.com/Harsh20056/Samadhan-RICR)
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%20%2B%20PostGIS-336791.svg?logo=postgresql)](https://www.postgresql.org/)
 [![Node.js](https://img.shields.io/badge/Backend-Express%205%20%7C%20TypeScript-339933.svg?logo=nodedotjs)](https://expressjs.com/)
 [![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20Vite%208%20%7C%20TailwindCSS-61dafb.svg?logo=react)](https://react.dev/)
@@ -14,8 +13,8 @@
 
 ### 🌐 Live Demo
 
-**[Visit Samadhan →](https://hack-in-motion-ricr-him-1050.vercel.app/)**  
-`https://hack-in-motion-ricr-him-1050.vercel.app/`
+**[Visit Samadhan →](https://samadhan-1050.vercel.app/)**  
+`https://samadhan-1050.vercel.app/`
 
 ---
 
@@ -542,7 +541,7 @@ npm test
 
 ## Team and Project Credits
 
-Developed for **HackInMotion 2026** under the **Smart Cities & Civic Tech** track.
+Developed as a **Smart Cities & Civic Tech** solution.
 
 ### Development Team
 

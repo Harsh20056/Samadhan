@@ -386,5 +386,5 @@ The exact database technology, schema syntax, indexing strategy and implementati
 ---
 
 **Project:** Samadhan
-**Event:** HackInMotion 2026
+**Project:** Samadhan
 **Theme:** Smart Cities & Civic Tech
